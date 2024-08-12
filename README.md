@@ -7,16 +7,16 @@ O YumYelp é um aplicativo mobile focado no cadastro e recomendação de restaur
 ## Exibição do Projeto
 
 <div>
-  <div>
+  <h2>
      <img src="assets/outImg/6.jpeg" width="200">
      <img src="assets/outImg/7.jpeg" width="200">
      <img src="assets/outImg/8.jpeg" width="200">      
-  </div>
-  <div>
+  </h2>
+  <h2>
      <img src="assets/outImg/16.jpeg" width="200">
      <img src="assets/outImg/14.jpeg" width="200" >
      <img src="assets/outImg/12.jpeg" width="200">
-  </div>
+  </h2>
   <div>
   </div>
   <div>
