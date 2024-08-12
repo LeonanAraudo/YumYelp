@@ -7,16 +7,17 @@ O Yumyelp é um aplicativo mobile  focado no cadastro e recomendação de restau
 <div>
    <img src="assets/outImg/6.jpeg" width="300" ">
    <img src="assets/outImg/7.jpeg" width="300" ">
-   <img src="assets/outImg/8.jpeg" width="300" ">
 </div>
-  <div>
+   <div>
+   <img src="assets/outImg/8.jpeg" width="300" ">      
    <img src="assets/outImg/16.jpeg" width="300">
+   </div>
+  <div>
    <img src="assets/outImg/14.jpeg" width="300">
    <img src="assets/outImg/12.jpeg" width="300">
 </div>
 <div>
    <img src="assets/outImg/17.jpeg" width="300">
-   <img src="assets/outImg/18.jpeg" width="300">
    <img src="assets/outImg/9.jpeg" width="300">
 </div>
 </div>
