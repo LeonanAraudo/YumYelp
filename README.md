@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8B00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C33636&height=120&section=header"/>
 
 <h1>YumYelp</h1>
 
@@ -30,6 +30,7 @@ O Yumyelp é um aplicativo mobile  focado no cadastro e recomendação de restau
     <li>React Navigation</li>
   </ul>
 </nav>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C33636&height=120&section=footer"/>
 <h3>Equipe</h3>
 <nav>
    <ul>
