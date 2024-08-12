@@ -30,10 +30,6 @@ O Yumyelp é um aplicativo mobile  focado no cadastro e recomendação de restau
     <li>React Navigation</li>
   </ul>
 </nav>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C33636&height=120&section=footer"/>
 <h3>Equipe</h3>
-<nav>
-   <ul>
-      <li>https://github.com/BrunaCardoso7</li>
-   </ul>
-</nav>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C33636&height=120&section=footer"/>
