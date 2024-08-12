@@ -2,6 +2,7 @@
 
 <h1>YumYelp</h1>
 
+
 O Yumyelp é um aplicativo mobile  focado no cadastro e recomendação de restaurantes, projetado para ajudar os usuários a descobrir os melhores lugares para comer. Seu principal objetivo é fornecer recomendações personalizadas e confiáveis, tornando a experiência de encontrar o restaurante ideal rápida e agradável.
 
 <h2>Exibição do projeto</h2>
@@ -29,7 +30,10 @@ O Yumyelp é um aplicativo mobile  focado no cadastro e recomendação de restau
     <li>React Native</li>
     <li>React Navigation</li>
   </ul>
+   
 </nav>
-<h3>Equipe</h3>
+<h2>Equipe</h2>
+[![GitHub](https://img.shields.io/badge/Bruna-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bruna)
 
+<div></div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C33636&height=120&section=footer"/>
