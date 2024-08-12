@@ -14,12 +14,13 @@ O YumYelp é um aplicativo mobile focado no cadastro e recomendação de restaur
   </div>
   <div>
      <img src="assets/outImg/16.jpeg" width="200">
-  </div>
-  <div>
      <img src="assets/outImg/14.jpeg" width="200" >
      <img src="assets/outImg/12.jpeg" width="200">
   </div>
   <div>
+  </div>
+  <div>
+     <img src="assets/outImg/18.jpeg" width="200">
      <img src="assets/outImg/17.jpeg" width="200">
      <img src="assets/outImg/9.jpeg" width="200">
   </div>
@@ -29,7 +30,8 @@ O YumYelp é um aplicativo mobile focado no cadastro e recomendação de restaur
 
 - React Native
 - React Navigation
-
+- Expo
+  
 ## Equipe
 
 [![GitHub](https://img.shields.io/badge/Bruna-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunaCardoso7)
