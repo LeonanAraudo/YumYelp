@@ -32,6 +32,6 @@ O YumYelp é um aplicativo mobile focado no cadastro e recomendação de restaur
 
 ## Equipe
 
-[![GitHub](https://img.shields.io/badge/Bruna-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bruna)
+[![GitHub](https://img.shields.io/badge/Bruna-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunaCardoso7)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C33636&height=120&section=footer"/>
