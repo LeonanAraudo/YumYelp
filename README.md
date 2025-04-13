@@ -31,6 +31,7 @@ O YumYelp é um aplicativo mobile focado no cadastro e recomendação de restaur
 - React Native
 - React Navigation
 - Expo
+- Axios
   
 ## Equipe
 
